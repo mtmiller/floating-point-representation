@@ -1,0 +1,5 @@
+* Class templated on floating point type for more efficient storage
+* Accessor methods to get sign/exponent/significand components
+* Output format options including exponential, binary, hexadecimal
+* Cross-type constructors and assignments once class is templated
+* Flesh out description and justification
